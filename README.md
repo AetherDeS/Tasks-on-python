@@ -1,1 +1,1 @@
-- In this reposetory, i collect my solutions to python puzzles.
+🧮 In this reposetory, i collect my solutions to python puzzles.
