@@ -1,4 +1,4 @@
-<h1>Tasks</h1>
+<h1 align="center">List of tasks</h1>
 <h1 align="center">ENG</h1>
 
 Preface: Take a random option number, this will be your input data for tasks where you can choose an option.
