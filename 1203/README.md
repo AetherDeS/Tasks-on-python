@@ -1,5 +1,8 @@
-# Tasks
+<h1>Tasks</h1>
 <h1 align="center">ENG</h1>
+
+Preface: Take a random option number, this will be your input data for tasks where you can choose an option.
+
 - Write a program that creates a file "nums.txt ", containing
 several numbers separated by a space in one line. The numbers are taken from
 the variant. Then the program should open the created file, calculate and
@@ -98,6 +101,9 @@ Variants.
 11 | 3
 12 | 4
 13 | 5
+
+Take random number
+
 
 An example of an input.
 <3
